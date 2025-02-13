@@ -53,6 +53,11 @@ Withdraw:
 ![image](https://github.com/user-attachments/assets/98668153-a344-42ba-b101-1472a7101500)
 
 
+Postgres Change log table changes on each action:
+![image](https://github.com/user-attachments/assets/831b2215-a1b9-4b49-a844-0d3c0572cd7e)
+
+
+
 
 
 
